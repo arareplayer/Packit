@@ -48,33 +48,6 @@ The **PackTime Scheduling and Job Management Application** is a comprehensive to
 - **FPDF**: For generating job traveler PDFs.
 - **GitHub**: For code version control and deployment.
 
----
-
-### **Deployment**
-
-To deploy the app, follow these steps:
-
-#### **1. Deploy on Streamlit Cloud:**
-   1. Create a GitHub repository and push the code to GitHub.
-   2. Sign up for **Streamlit Cloud** at [streamlit.io](https://streamlit.io/cloud).
-   3. Connect your GitHub repository to **Streamlit Cloud**.
-   4. Select the main branch and deploy the app.
-   5. Share the provided URL for remote access.
-
-#### **2. Local Deployment (Alternative):**
-   1. Clone the repository:
-      ```bash
-      git clone https://github.com/your-username/your-repo.git
-      cd your-repo
-      ```
-   2. Install dependencies:
-      ```bash
-      pip install -r requirements.txt
-      ```
-   3. Run the app locally:
-      ```bash
-      streamlit run app.py
-      ```
 
 ---
 
@@ -124,9 +97,9 @@ A: The app allows you to generate **CSV** and **PDF** reports for jobs, performa
 
 ### **Contributors**
 
-- **[Your Name]**: Lead Developer & Project Manager
-- **[Contributor Name]**: Frontend Developer
-- **[Contributor Name]**: Data Scientist (for job scheduling and forecasting logic)
+- **[Alden Spooner]**: Lead Developer & Project Manager
+- **[Alden Spooner]**: Frontend Developer
+- **[Alden Spooner]**: Data Scientist (for job scheduling and forecasting logic)
 
 ---
 
